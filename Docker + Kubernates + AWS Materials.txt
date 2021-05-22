@@ -1,0 +1,11 @@
+How to create Docker Image and run Java App (Spring Boot Jar) in a Docker Engine | Tech Primers
+
+https://www.youtube.com/watch?v=FlSup_eelYE&t=685s
+
+How to Run/Deploy Spring Boot & MySQL in Docker? | Tech Primers
+
+https://www.youtube.com/watch?v=fvEWoy1xOvo&t=1241s
+
+Docker + Kubernates + AWS Materials
+
+https://www.youtube.com/watch?v=fvEWoy1xOvo&list=RDCMUCB12jjYsYv-eipCvBDcMbXw&start_radio=1&rv=fvEWoy1xOvo&t=1252
